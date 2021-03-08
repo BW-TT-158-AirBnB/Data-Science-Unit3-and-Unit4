@@ -10,9 +10,6 @@ The project information: [AirBnB Optimal Price](https://www.notion.so/AirBnB-Opt
 
 [Our Product Vision Document](https://docs.google.com/document/d/1htIpgcacMnqSJzSg7gRUsczSHdtJNUmgpVmT16_MQu4/edit?usp=sharing)
 
-# Project Name
-This project is a part of the [Data Science Working Group](http://datascience.codeforsanfrancisco.org) at [Code for San Francisco](http://www.codeforsanfrancisco.org).  Other DSWG projects can be found at the [main GitHub repo](https://github.com/sfbrigade/data-science-wg).
-
 ## Project Description
 The purpose of this project is to make a tool for someone looking to rent out there space through Airbnb. It will help them to determine what will be a good price to list for, based on parameters they specify. 
 
