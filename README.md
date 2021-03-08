@@ -10,40 +10,26 @@ The project information: [AirBnB Optimal Price](https://www.notion.so/AirBnB-Opt
 
 [Our Product Vision Document](https://docs.google.com/document/d/1htIpgcacMnqSJzSg7gRUsczSHdtJNUmgpVmT16_MQu4/edit?usp=sharing)
 
----
-
---_- Template Below: Need to Update -_--
-
----
-
 # Project Name
 This project is a part of the [Data Science Working Group](http://datascience.codeforsanfrancisco.org) at [Code for San Francisco](http://www.codeforsanfrancisco.org).  Other DSWG projects can be found at the [main GitHub repo](https://github.com/sfbrigade/data-science-wg).
 
 ## Project Description
-The purpose of this project is ______. (Describe the main goals of the project and potential impact. Limit to a short paragraph, 2-3 Sentences)
+The purpose of this project is to make a tool for someone looking to rent out there space through Airbnb. It will help them to determine what will be a good price to list for, based on parameters they specify. 
 
 ### Team Members
-* Name #1 (github URL)
-* Name #2 (github URL)
+* Joanne Middour (https://github.com/jmmiddour)
+* Azamat Jalilov
 
 ### Technologies and Methods Used
 * Python
-* Postgres
 * Tensorflow
-* Flask / FastAPI
 * TF-IDF
-* Logistic Regression
-* k-Nearest Neighbors
-* etc. 
+* Sequencial Neural Network
+* XGBRegressor
 
 ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
-
-    *If using offline data mention that and how they may obtain the data from the group)*
-    
-3. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
-4. Create Pipenv following these instructions...
-5. etc...
+2. Raw Data is being kept [here](https://github.com/BW-TT-158-AirBnB/Data-Science-Unit3-and-Unit4/tree/main/data) within this repo.    
+3. Data processing/transformation scripts are being kept [here](https://github.com/BW-TT-158-AirBnB/Data-Science-Unit3-and-Unit4/tree/main/notebooks)
 
